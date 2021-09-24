@@ -9,9 +9,9 @@ Self written many topics about Design, Development, UI/UX, Rich Media, Technolog
 
 ## List of Blogs
 
-Topics | Link
------------- | -------------
-OS configuration [Windows](https://www.microsoft.com/en-us/) | [See details...](https://github.com/plabon-asad/os-config)
+Topics | Link | Progress
+------------ | ------------- | -------------
+OS configuration [Windows](https://www.microsoft.com/en-us/) | [See details...](https://github.com/plabon-asad/os-config) | <span style="background-color: #0080002b;color: green;padding: 2px 8px;font-size: 10px;display: inline-block;border-radius: 15px;">Working...</span>
 Rich Media (Ads) | [See details...](https://github.com/plabon-asad/rich-media)
 
  ## Study with Development 
